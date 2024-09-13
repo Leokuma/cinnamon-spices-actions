@@ -1,0 +1,9 @@
+[Nemo Action]
+_Name=Base64 encode
+_Comment=Generate base64 from file and copy it to the clipboard
+Exec=sh -c "/usr/bin/base64 -w 0 %F | xclip -selection clipboard"
+Icon-Name=document-edit-encrypt
+Selection=s
+Extensions=nodirs;
+Quote=single
+Dependencies=base64;xclip;
