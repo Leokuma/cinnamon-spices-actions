@@ -1,0 +1,36 @@
+# BASE64 ENCODE FILE
+# This file is put in the public domain.
+# Leokuma, 2023
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: base64-encode-file@Leokuma 1.0\n"
+"Report-Msgid-Bugs-To: https://github.com/linuxmint/cinnamon-spices-actions/"
+"issues\n"
+"POT-Creation-Date: 2025-03-02 20:32-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. metadata.json->description
+msgid ""
+"Generate base64 from the selected file and copy the result to the clipboard "
+"or save to a file."
+msgstr ""
+
+#. metadata.json->name
+msgid "Base64 Encode File"
+msgstr ""
+
+#. base64-encode-file@Leokuma.nemo_action.in->Name
+msgid "Base64 encode file..."
+msgstr ""
+
+#. base64-encode-file@Leokuma.nemo_action.in->Comment
+msgid "Encode file to base64"
+msgstr ""

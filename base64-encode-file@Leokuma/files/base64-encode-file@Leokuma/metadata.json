@@ -1,0 +1,7 @@
+{
+    "description": "Generate base64 from the selected file and copy the result to the clipboard or save to a file.",
+    "uuid": "base64-encode-file@Leokuma",
+    "name": "Base64 Encode File",
+    "author": "Leokuma",
+    "version": "1.0"
+}
