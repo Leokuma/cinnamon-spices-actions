@@ -3,5 +3,5 @@ _Name=Base64 encode...
 _Comment=Encode file to base64
 Exec=<base64-encode-file@Leokuma/base64-encode-file@Leokuma.sh %F>
 Selection=s
-Extensions=any;
+Extensions=nodirs;
 Dependencies=base64;zenity;xclip;gettext;
