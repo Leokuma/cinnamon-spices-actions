@@ -1,0 +1,7 @@
+{
+    "description": "Create file containing data from the clipboard.",
+    "uuid": "new-file-from-clipboard@Leokuma",
+    "name": "New File From Clipboard",
+    "author": "Leokuma",
+    "version": "1.0"
+}

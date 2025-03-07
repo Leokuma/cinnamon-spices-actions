@@ -1,0 +1,8 @@
+[Nemo Action]
+_Name=New file from clipboard
+_Comment=Create file containing data from the clipboard.
+Exec=<new-file-from-clipboard@Leokuma/new-file-from-clipboard@Leokuma.sh %F>
+Icon-Name=folder-templates-symbolic
+Selection=none
+Extensions=none;
+Dependencies=xclip;zenity;gettext;
